@@ -1,0 +1,10 @@
+title: "GW150914 — SEQ vs Hawking Fade"
+use_real_data: false
+data_file: "data/GW150914.hdf5"
+E_norm: 0.2
+Y: 1.0
+jitter_threshold: 0.65
+target_seq: 0.795
+noise_p: 1e-8
+phase_window: 0.5
+seed: 42
