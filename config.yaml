@@ -1,6 +1,6 @@
-title: "GW150914 — SEQ vs Hawking Fade"
+title: "GW151226 — SEQ vs Hawking Fade"
 use_real_data: true
-data_file: "H-H1_LOSC_4_V1-1126259446-32.hdf5"
+data_file: "GW151226-11351363-11351383.hdf5"
 E_norm: 0.2
 Y: 1.0
 jitter_threshold: 0.65
